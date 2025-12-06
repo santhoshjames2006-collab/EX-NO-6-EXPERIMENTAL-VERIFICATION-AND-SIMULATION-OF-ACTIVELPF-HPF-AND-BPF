@@ -75,9 +75,7 @@ PROCEDURE - (LPF):
 
 
 ## TABULATION
-![WhatsApp Image 2025-12-05 at 21 52 08_5b47fd4c](https://github.com/user-attachments/assets/f8881409-e696-47cf-bc4d-c91392cd86a6)
-
-
+<img width="1080" height="1032" alt="image" src="https://github.com/user-attachments/assets/0e831e9d-aaaf-4976-8468-236269935f06" />
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-05 at 21 52 09_33678154](https://github.com/user-attachments/assets/41d52a7f-3ab3-4146-b093-e865e12126c7)
@@ -136,23 +134,9 @@ PROCEDURE - ( HPF):
 
 
 ## TABULATION
+<img width="883" height="1280" alt="image" src="https://github.com/user-attachments/assets/f43f1c6d-849a-4fb1-8e1d-140ff9d51e41" />
 
 		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -221,8 +205,6 @@ PROCEDURE:BAND PASS FILTER
 
 
 ## TABULATION
-![WhatsApp Image 2025-12-05 at 21 52 09_ed76022e](https://github.com/user-attachments/assets/d24dfc91-afb0-4843-a192-cad67ee23d59)
-
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-05 at 21 52 10_c40ade08](https://github.com/user-attachments/assets/2af66ef9-af97-4ac9-a55c-efdd6323903f)
